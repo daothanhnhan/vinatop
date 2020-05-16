@@ -1,0 +1,1 @@
+<a href="/lien-he" class="btn-yeuthich"><?= $lang=='vn' ? 'Liên hệ' : 'Contact' ?></a>
